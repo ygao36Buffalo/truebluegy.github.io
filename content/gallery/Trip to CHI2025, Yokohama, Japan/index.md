@@ -52,7 +52,7 @@ Strolling through Yokohama's streets, I was captivated by the city's natural bea
 
 {{< figure src="yokohama_street_flowers.jpg" caption="Beautiful white azaleas blooming along a Yokohama street." >}}
 
-This trip was a fantastic opportunity to combine academic growth with cultural immersion. I'm already looking forward to the next CHI and another chance to explore more of this beautiful country!
+This trip was a fantastic opportunity to combine academic growth with cultural immersion. I'm already looking forward to the next CHI!
 
 ---
 Did you find this page helpful? Consider sharing it 🙌
