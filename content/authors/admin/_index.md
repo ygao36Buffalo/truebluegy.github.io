@@ -54,12 +54,12 @@ education:
     date_start: 2015-01-01
     date_end: 2017-12-31
 
-  - area: M.S
+  - area: MS
     institution: Steven Institute of Technology
     date_start: 2012-09-01
     date_end: 2014-06-01
 
-  - area: Bachelor
+  - area: BS
     institution: UESTC
     date_start: 2008-09-01
     date_end: 2012-06-01
