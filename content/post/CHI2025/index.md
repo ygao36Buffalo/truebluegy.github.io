@@ -22,7 +22,7 @@ tags:
 
 For more in-depth information about these exciting works, please visit their dedicated project pages:
 
-*   **SandTouch:** [Explore our full paper here]({{< relref "project/sandtouch" >}})
-*   **From Wrist to Finger:** [Discover our Late-Breaking Work here]({{< relref "project/from-wrist-to-finger" >}})
+*   **SandTouch:** [Explore our full paper here]({{< relref "project/SandTouch" >}})
+*   **From Wrist to Finger:** [Discover our Late-Breaking Work here]({{< relref "project/From-wrist-to-finger" >}})
 
 
