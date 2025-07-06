@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Talks
+title: Moments & Memories
 cms_exclude: true
 #url: talk
 
