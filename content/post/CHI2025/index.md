@@ -1,6 +1,6 @@
 ---
 title: 🎉 Double Acceptance at CHI 2025: Full Paper & Late-Breaking Work!
-summary: We're delighted to announce a double acceptance for CHI 2025:\ one full paper and one Late-Breaking Work have both been accepted! We're incredibly proud of these achievements and excited to contribute to the premier conference in Human-Computer Interaction. 
+summary: We're delighted to announce a double acceptance for CHI 2025:one full paper and one Late-Breaking Work have both been accepted! We're incredibly proud of these achievements and excited to contribute to the premier conference in Human-Computer Interaction. 
 date: 2025-04-25
 
 # Featured image
