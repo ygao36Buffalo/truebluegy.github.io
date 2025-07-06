@@ -2,8 +2,6 @@
 title: Moments & Memories
 # cms_exclude: true
 # #url: talk
-
-type: landing # 保持 landing 可以让你在页面顶部添加自定义介绍文字
 cascade:
   type: post # 指示该目录下的所有子内容都使用 'post' 类型
 # View for the *child items* listed on this page
