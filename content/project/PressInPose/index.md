@@ -13,7 +13,7 @@ tags:
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Our immersive VR sand painting system, SandTouch.'
+  caption: 'Our PressInPose system for full-body pose estimation.'
 
 authors:
   - admin
