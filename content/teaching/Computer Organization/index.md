@@ -1,7 +1,7 @@
 ---
-title: Computer Organization, Unraveling the Machine's Secrets
+title: Computer Organization
 summary: Dive deep into how computers work, from the fundamental bits to complex systems architecture.
-date: 2024-09-01 # 可以是课程开设的日期或你的入职日期
+date: 2024-2025 Spring Semester # 可以是课程开设的日期或你的入职日期
 type: docs
 math: false
 tags:
@@ -16,7 +16,7 @@ image:
 
 Ever wondered what magic truly happens inside your computer when you click a mouse, launch an app, or even just boot it up? This course takes you on an exciting journey deep into the heart of modern computing systems. We'll peel back the layers of abstraction to understand the fundamental building blocks and principles that make software run efficiently on hardware. Get ready to gain a profound appreciation for the intricate dance between bits, bytes, and transistors!
 
-## What You'll Master:
+## Syllabus:
 
 ### 1. Introduction to Computer Systems 🚀
 An exciting overview of the computer's anatomy – from high-level software to low-level hardware. We'll set the stage for our adventure into the machine's core, understanding the big picture before diving into the details.
