@@ -20,4 +20,6 @@ tags:
 
 ## Overview
 
-Stay tuned for the full paper and presentation details.
+For more in-depth information about these exciting works, please visit their dedicated project pages:
+
+*   **PressInPose:** [Explore our full paper here]({{< relref "project/PressInPose" >}})
