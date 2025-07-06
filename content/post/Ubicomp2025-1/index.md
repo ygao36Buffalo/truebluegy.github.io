@@ -20,6 +20,6 @@ tags:
 
 ## Overview
 
-For more in-depth information about these exciting works, please visit their dedicated project pages:
+For more in-depth information about this exciting work, please visit the dedicated project page:
 
 *   **PressInPose:** [Explore our full paper here]({{< relref "project/PressInPose" >}})
