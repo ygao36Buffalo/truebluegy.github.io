@@ -1,9 +1,9 @@
 ---
 title: "SandTouch: Empowering Virtual Sand Art in VR with AI Guidance and Emotional Relief"
 summary: "Discover SandTouch, our innovative VR sand painting system that brings realistic hand-sand interaction, AI guidance, and emotional relief to virtual art creation."
-date: 2025-07-05 # 发布日期
-type: docs
-math: false
+date: 2025-04-25 # 发布日期
+# type: docs
+# math: false
 tags:
   - VR
   - HCI
@@ -15,7 +15,7 @@ tags:
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
   caption: 'Our immersive VR sand painting system, SandTouch.'
-  
+
 ---
 
 
