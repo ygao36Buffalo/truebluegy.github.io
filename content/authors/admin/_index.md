@@ -89,4 +89,4 @@ work:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Yang Gao is an associate professor at the East China Normal University. His research interests include Human-computer-interaction, wearable computing, and AI. He leads the human-computer-interaction group.
