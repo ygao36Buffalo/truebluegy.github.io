@@ -16,6 +16,8 @@ tags:
 image:
   caption: 'Our immersive VR sand painting system, SandTouch.'
 
+authors:
+  - admin
 ---
 
 
