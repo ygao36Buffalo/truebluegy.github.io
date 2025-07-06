@@ -35,8 +35,8 @@ Beyond artistic creation, SandTouch prioritizes user well-being. It incorporates
 
 ## Media & Resources:
 
-*   **Paper:** [`https://doi.org/10.1145/3706598.3714275`]
-*   **Video:** [`{{</* https://www.youtube.com/watch?v=6FYOCeU0liw */>}}`]
+*   **Paper:** [Full Paper (ACM DL)](https://doi.org/10.1145/3706598.3714275)
+*   **Video:** {{</* youtube "6FYOCeU0liw" */>}}
 
 
 ---
