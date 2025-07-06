@@ -12,7 +12,7 @@ tags:
   - Emotional Well-being
 image:
   caption: 'Our immersive VR sand painting system, SandTouch.'
-  filename: 'sandtouch-featured.jpg' # 假设有这张图，放在 static/img/ 或当前页面文件夹下
+  filename: 'featured.png' # 假设有这张图，放在 static/img/ 或当前页面文件夹下
 ---
 
 ## Project Overview
@@ -36,7 +36,7 @@ Beyond artistic creation, SandTouch prioritizes user well-being. It incorporates
 ## Media & Resources:
 
 *   **Paper:** [Full Paper (ACM DL)](https://doi.org/10.1145/3706598.3714275)
-*   **Video:** [Project Video] (e.g., `{{</* youtube "6FYOCeU0liw" */>}}`)
+*   **Video:** [Project Video](https://www.youtube.com/watch?v=6FYOCeU0liw)
 
 
 ---
