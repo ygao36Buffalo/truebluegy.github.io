@@ -1,140 +1,59 @@
 ---
-title: Learn Python
-summary: Easily learn Python in 10 minutes!
-date: 2023-10-24
+title: Data Visualization & Interaction
+summary: Learn to transform raw data into compelling, interactive visual narratives that drive insights.
+date: 2024-09-01 # 可以是课程开设的日期或你的入职日期
 type: docs
 math: false
 tags:
-  - Python
+  - Data Science
+  - Data Visualization
+  - HCI
+  - User Experience
+  - Interaction Design
 image:
-  caption: 'Embed rich media such as videos and LaTeX math'
+  caption: 'Transforming data into beautiful, insightful visuals'
+  # filename: 'data-vis.jpg' # 如果有图片，可以放在 static/img/ 或当前页面文件夹下
 ---
 
-[Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
+In our increasingly data-rich world, simply having data isn't enough – we need to understand it, communicate it effectively, and extract actionable insights from it. This course empowers you to transform raw numbers and complex datasets into compelling, insightful visual narratives. We'll blend the art of design with the science of data, learning how to create interactive visualizations that not only look good but also enable powerful data exploration and decision-making. Get ready to become a data storyteller!
 
-**Embed videos, podcasts, code, LaTeX math, and even test students!**
+## What You'll Explore:
 
-On this page, you'll find some examples of the types of technical content that can be rendered with Hugo Blox.
+### 1. Visual Perception & Cognition 👁️🧠
+The human element is key! We'll start by understanding how our eyes and brains process visual information, exploring principles of pre-attentive attributes, Gestalt psychology, and cognitive biases. This lays the groundwork for designing effective and intuitive visualizations.
 
-## Video
+### 2. Data Fundamentals & Preparation 🧹
+Before we visualize, we clean and structure! Learn about different data types (quantitative, categorical, ordinal), data quality issues, and essential techniques for wrangling, cleaning, and transforming your data to make it suitable for visualization.
 
-Teach your course by sharing videos with your students. Choose from one of the following approaches:
+### 3. Visualizing Spatial Data 🗺️
+Explore techniques for representing geographic locations and spatial relationships. From simple scatter plots on maps to choropleth maps, heatmaps, and flow maps, we'll learn to convey location-based insights effectively.
 
-{{< youtube D2vj0WcvH5c >}}
+### 4. Visualizing Tree Structures 🌲
+Dive into hierarchical data! Learn how to effectively visualize relationships and structures in organizational charts, file systems, category taxonomies, and other tree-like datasets using methods like treemaps, sunburst charts, and node-link diagrams.
 
-**Youtube**:
+### 5. Visualizing Graph Structures (Networks) 🕸️
+Uncover connections! Master techniques for visualizing complex networks, social graphs, co-occurrence relationships, and other graph data to reveal hidden patterns, communities, and central nodes.
 
-    {{</* youtube w7Ft2ymGmfc */>}}
+### 6. Visualizing Time-Varying Data 📈
+See trends unfold! Learn how to effectively represent changes over time, from traditional line charts and area charts to more advanced streamgraphs, sparklines, and animated timelines that show evolution and patterns over temporal dimensions.
 
-**Bilibili**:
+### 7. Visualizing Text Data 💬
+Transform words into insights! Explore methods for visualizing textual information, including word clouds, n-gram charts, sentiment analysis visualizations, topic models, and network graphs derived from text.
 
-    {{</* bilibili id="BV1WV4y1r7DF" */>}}
+### 8. Geospatial Information Systems (GIS) & Advanced Mapping 🌍
+Beyond basic maps, delve into the power of GIS for analyzing and visualizing complex geographical datasets with real-world applications in urban planning, environmental science, and public health.
 
-**Video file**
+### 9. Visualizing High-Dimensional Data ✨
+Tame complexity! Learn strategies to visualize datasets with many attributes (dimensions), employing techniques like parallel coordinates, scatter plot matrices, dimensionality reduction (e.g., PCA, t-SNE), and glyph-based representations.
 
-Videos may be added to a page by either placing them in your `assets/media/` media library or in your [page's folder](https://gohugo.io/content-management/page-bundles/), and then embedding them with the _video_ shortcode:
+### 10. Interactive Views & Dashboard Design 🕹️
+Bring your data to life! Explore principles of interactive design, enabling users to filter, zoom, pan, drill down, and explore data dynamically. We'll also cover best practices for designing effective and user-friendly dashboards.
 
-    {{</* video src="my_video.mp4" controls="yes" */>}}
-
-## Podcast
-
-You can add a podcast or music to a page by placing the MP3 file in the page's folder or the media library folder and then embedding the audio on your page with the _audio_ shortcode:
-
-    {{</* audio src="ambient-piano.mp3" */>}}
-
-Try it out:
-
-{{< audio src="ambient-piano.mp3" >}}
-
-## Test students
-
-Provide a simple yet fun self-assessment by revealing the solutions to challenges with the `spoiler` shortcode:
-
-```markdown
-{{</* spoiler text="👉 Click to view the solution" */>}}
-You found me!
-{{</* /spoiler */>}}
-```
-
-renders as
-
-{{< spoiler text="👉 Click to view the solution" >}} You found me 🎉 {{< /spoiler >}}
-
-## Math
-
-Hugo Blox Builder supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the `math` option in your `config/_default/params.yaml` file.
-
-To render _inline_ or _block_ math, wrap your LaTeX math with `{{</* math */>}}$...${{</* /math */>}}` or `{{</* math */>}}$$...$${{</* /math */>}}`, respectively.
+---
 
 {{% callout note %}}
-We wrap the LaTeX math in the Hugo Blox _math_ shortcode to prevent Hugo rendering our math as Markdown.
+By the end of this course, you'll not only be able to create beautiful and effective visualizations but also to communicate complex data stories with clarity and empower users to gain actionable insights. This is a critical skill for anyone navigating our data-driven world!
 {{% /callout %}}
 
-Example **math block**:
-
-```latex
-{{</* math */>}}
-$$
-\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}
-$$
-{{</* /math */>}}
-```
-
-renders as
-
-{{< math >}}
-$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
-{{< /math >}}
-
-Example **inline math** `{{</* math */>}}$\nabla F(\mathbf{x}_{n})${{</* /math */>}}` renders as {{< math >}}$\nabla F(\mathbf{x}_{n})${{< /math >}}.
-
-Example **multi-line math** using the math linebreak (`\\`):
-
-```latex
-{{</* math */>}}
-$$f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} & \text{if }k=1, \\
-1-p_{0}^{*} & \text{if }k=0.\end{cases}$$
-{{</* /math */>}}
-```
-
-renders as
-
-{{< math >}}
-
-$$
-f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} & \text{if }k=1, \\
-1-p_{0}^{*} & \text{if }k=0.\end{cases}
-$$
-
-{{< /math >}}
-
-## Code
-
-Hugo Blox Builder utilises Hugo's Markdown extension for highlighting code syntax. The code theme can be selected in the `config/_default/params.yaml` file.
-
-
-    ```python
-    import pandas as pd
-    data = pd.read_csv("data.csv")
-    data.head()
-    ```
-
-renders as
-
-```python
-import pandas as pd
-data = pd.read_csv("data.csv")
-data.head()
-```
-
-## Inline Images
-
-```go
-{{</* icon name="python" */>}} Python
-```
-
-renders as
-
-{{< icon name="python" >}} Python
-
-## Did you find this page helpful? Consider sharing it 🙌
+---
+Did you find this page helpful? Consider sharing it 🙌
