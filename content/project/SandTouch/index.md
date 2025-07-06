@@ -10,13 +10,17 @@ tags:
   - AI
   - Art Creation
   - Emotional Well-being
+
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
   caption: 'Our immersive VR sand painting system, SandTouch.'
+  
 ---
 
+
 ## Project Overview
+
 
 In today's data-rich world, simply having data isn't enough – we need to understand it, communicate it, and extract insights from it. This course empowers you to transform raw numbers and complex datasets into compelling, insightful visual narratives. We'll blend art with science, learning how to design interactive visualizations that not only look good but also enable powerful data exploration and decision-making. Get ready to become a data storyteller!
 
