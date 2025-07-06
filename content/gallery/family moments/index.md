@@ -12,11 +12,13 @@ image:
   caption: 'Shuran'
   focal_point: 'Smart'
   filename: 'featured.jpg' # 假设图片在同一文件夹
+
+authors:
+  - admin
+
 ---
 
-It's always wonderful to spend quality time with my family. This past weekend, we had a delightful gathering at [Location, e.g., grandma's house/the park], filled with laughter, good food, and unforgettable conversations. These moments remind me of the importance of connection and the joy of shared experiences.
-
-Here are a few highlights from our precious time together:
+It's always wonderful to spend quality time with my family. Here are a few highlights from our precious time together:
 
 {{< figure src="family_photo_1.jpg" caption="" >}}
 
