@@ -12,7 +12,7 @@ tags:
   - Emotional Well-being
 image:
   caption: 'Our immersive VR sand painting system, SandTouch.'
-  filename: 'featured.png' # 假设有这张图，放在 static/img/ 或当前页面文件夹下
+  #filename: 'featured.png' # 假设有这张图，放在 static/img/ 或当前页面文件夹下
 ---
 
 ## Project Overview
