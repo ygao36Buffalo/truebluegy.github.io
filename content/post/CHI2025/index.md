@@ -20,6 +20,9 @@ tags:
 
 ## Overview
 
-Stay tuned for the full paper and presentation details.
+For more in-depth information about these exciting works, please visit their dedicated project pages:
+
+*   **SandTouch:** [Explore our full paper here]({{< relref "docs/project/sandtouch" >}})
+*   **From Wrist to Finger:** [Discover our Late-Breaking Work here]({{< relref "docs/project/from-wrist-to-finger" >}})
 
 
