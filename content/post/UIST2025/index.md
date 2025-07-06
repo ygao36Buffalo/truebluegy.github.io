@@ -1,7 +1,7 @@
 ---
 title: 🎉 Our Paper Accepted to UIST 2025!
-summary: Our paper, "Wrist2Finger", has been accepted to UIST 2025! We are excited to present our work at UIST 2025. Stay tuned for the full paper and presentation details.
-date: 2025-07-06
+summary: Our paper has been accepted to UIST 2025! We are excited to present our work at UIST 2025. Stay tuned for the full paper and presentation details.
+date: 2025-07-04
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
