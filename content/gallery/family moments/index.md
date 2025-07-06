@@ -15,7 +15,8 @@ image:
 
 authors:
   - admin
-
+  
+view: compact # <--- 将这里的 'card' 改为 'compact'
 ---
 
 It's always wonderful to spend quality time with my family. Here are a few highlights from our precious time together:

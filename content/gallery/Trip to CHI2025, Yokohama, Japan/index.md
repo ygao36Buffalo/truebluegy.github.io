@@ -18,6 +18,8 @@ image:
 
 authors:
 - admin
+
+view: compact # <--- 将这里的 'card' 改为 'compact'
 ---
 
 Attending **CHI 2025** in Yokohama, Japan, was an absolutely incredible experience – a perfect blend of diving deep into the latest Human-Computer Interaction research and exploring the captivating beauty of Japan. It was a week filled with inspiring talks, engaging discussions, and unforgettable cultural moments.
