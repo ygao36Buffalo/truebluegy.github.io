@@ -1,6 +1,6 @@
 ---
 title: 🎉 Two Papers Newly Accepted for UbiComp 2025 Presentation!
-summary: Two of our papers (IMWUT 'Feb Cycle') have been conditional accepted and will be presented at UbiComp 2025! We are excited to share our latest research and look forward to the discussions. More details will be available soon.
+summary: Two of our papers in IMWUT 'Feb Cycle' (Motion2Press and KineticsSense) have been conditional accepted and will be presented at UbiComp 2025! We are excited to share our latest research and look forward to the discussions. More details will be available soon.
 date: 2025-07-05
 
 # Featured image
