@@ -1,7 +1,7 @@
 ---
 title: Computer Organization
 summary: Dive deep into how computers work, from the fundamental bits to complex systems architecture.
-date: 2024,2025 Spring # 可以是课程开设的日期或你的入职日期
+date: 2024-02-01 # 可以是课程开设的日期或你的入职日期
 type: docs
 math: false
 tags:
