@@ -22,8 +22,6 @@ authors:
 
 Attending **CHI 2025** in Yokohama, Japan, was an absolutely incredible experience – a perfect blend of diving deep into the latest Human-Computer Interaction research and exploring the captivating beauty of Japan. It was a week filled with inspiring talks, engaging discussions, and unforgettable cultural moments.
 
-Here I am, excited to be at the prestigious CHI 2025 conference in Yokohama!
-{{< figure src="chi_me_standing.jpg" caption="Ready for an inspiring week at CHI 2025!" >}}
 
 ## The Conference Experience 🔬🤝
 
