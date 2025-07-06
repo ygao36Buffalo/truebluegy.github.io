@@ -6,7 +6,7 @@ date: 2025-07-05
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**UIST2025**](https://uist.acm.org/2025/)'
+  caption: 'Image credit: [**Ubicomp2025**](https://www.ubicomp.org/ubicomp-iswc-2025/)'
 
 authors:
   - admin
