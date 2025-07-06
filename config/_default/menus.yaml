@@ -19,3 +19,6 @@ main:
   - name: Teaching
     url: teaching/
     weight: 40
+  - name: Gallery
+    url: gallery/
+    weight: 50
