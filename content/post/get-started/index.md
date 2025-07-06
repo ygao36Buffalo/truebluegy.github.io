@@ -6,7 +6,7 @@ date: 2025-07-06
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: 'Image credit: [**UIST2025**](https://uist.acm.org/2025/)'
 
 authors:
   - admin
@@ -14,7 +14,6 @@ authors:
 tags:
   - Academic
   - Hugo Blox
-  - Markdown
 ---
 
 {{< toc mobile_only=true is_open=true >}}
