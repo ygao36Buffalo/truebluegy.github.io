@@ -1,5 +1,5 @@
 ---
-title: Computer Organization: Unraveling the Machine's Secrets
+title: Computer Organization, Unraveling the Machine's Secrets
 summary: Dive deep into how computers work, from the fundamental bits to complex systems architecture.
 date: 2024-09-01 # 可以是课程开设的日期或你的入职日期
 type: docs
