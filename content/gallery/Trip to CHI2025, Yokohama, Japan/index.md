@@ -1,7 +1,7 @@
 ---
 title: "CHI 2025 & Exploring Yokohama, Japan"
-summary: "A memorable journey to Yokohama for CHI 2025, blending cutting-edge HCI research with the vibrant culture and beautiful sights of Japan."
-date: "2025-04-29" # CHI 2025 举行日期或你的访问日期
+summary: "A memorable journey to Yokohama for CHI 2025, blending cutting-edge HCI research with the vibrant culture of Japan."
+date: "2025-04-29" 
 type: post
 draft: false
 tags:
@@ -19,7 +19,6 @@ image:
 authors:
 - admin
 
-view: compact # <--- 将这里的 'card' 改为 'compact'
 ---
 
 Attending **CHI 2025** in Yokohama, Japan, was an absolutely incredible experience – a perfect blend of diving deep into the latest Human-Computer Interaction research and exploring the captivating beauty of Japan. It was a week filled with inspiring talks, engaging discussions, and unforgettable cultural moments.
