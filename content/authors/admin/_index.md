@@ -89,4 +89,4 @@ work:
 
 ## About Me
 
-Yang Gao is an associate professor at the South China University of Technology. His research interests include Human-computer-interaction, wearable computing, and AI. He leads the human-computer-interaction group.
+Yang Gao is an associate professor at the South China University of Technology. Prior to my current role, I gained valuable experience as a Postdoctoral Researcher at Northwestern University from August 2021 to May 2022. His research interests include Human-computer-interaction, wearable computing, and AI. He leads the human-computer-interaction group.
