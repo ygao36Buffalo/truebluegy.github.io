@@ -21,7 +21,7 @@ role: Associate Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: East China Normal University
+  - name: South China University of Technology
 
 
 # Social network links
@@ -89,4 +89,4 @@ work:
 
 ## About Me
 
-Yang Gao is an associate professor at the East China Normal University. His research interests include Human-computer-interaction, wearable computing, and AI. He leads the human-computer-interaction group.
+Yang Gao is an associate professor at the South China University of Technology. His research interests include Human-computer-interaction, wearable computing, and AI. He leads the human-computer-interaction group.
