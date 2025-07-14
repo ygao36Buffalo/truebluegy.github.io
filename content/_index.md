@@ -81,6 +81,7 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
   - block: collection
+    id: publications
     content:
       title: Recent Publications
       text: ""
