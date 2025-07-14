@@ -32,7 +32,7 @@ I had the honor of presenting our work, **"SandTouch: Empowering Virtual Sand Ar
 
 {{< figure src="my_sandtouch_presentation.jpg" caption="Presenting 'SandTouch' at CHI 2025." >}}
 
-The conference featured a diverse range of talks, from fundamental research to innovative applications. Listening to fellow researchers share their groundbreaking work was truly inspiring. I particularly enjoyed [mention a specific session/talk/topic if you wish, e.g., "the sessions on AI-Human Collaboration" or "connecting with researchers working on similar topics"]. Here's a glimpse of one of the engaging presentations:
+The conference featured a diverse range of talks, from fundamental research to innovative applications. Listening to fellow researchers share their groundbreaking work was truly inspiring. I particularly enjoyed connecting with researchers working on similar topics. Here's a glimpse of one of the engaging presentations:
 
 {{< figure src="chi_other_presentation.jpg" caption="An insightful presentation on 'Conveying Dancers’ Expressiveness Through A Haptic-Installed Contemporary Dance Performance'." >}}
 
