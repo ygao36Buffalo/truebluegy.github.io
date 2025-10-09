@@ -1,6 +1,5 @@
 ---
-title: 'EchoTouch: Low-power Face-touching Behavior Recognition Using Active Acoustic
-  Sensing on Glasses'
+title: 'Motion2Press: Cross Model Learning from IMU to Plantar Pressure for Gait Analysis'
 authors:
 - Junbin Ren
 - Ruihao Zheng

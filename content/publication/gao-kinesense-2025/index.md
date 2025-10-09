@@ -1,6 +1,5 @@
 ---
-title: 'EchoTouch: Low-power Face-touching Behavior Recognition Using Active Acoustic
-  Sensing on Glasses'
+title: 'KineticsSense: A Multimodal Wearable Sensor Framework for Modeling Lower-Limb Motion Kinetics'
 authors:
 - Wenbo Zhang
 - Chenxu Zhang
