@@ -37,8 +37,8 @@ sections:
       text: |-
         My research lies at the intersection of Human-Computer Interaction (HCI) and Ubiquitous Computing. I explore how multimodal signals from wearable devices—including motion, physiological, and semantic data—can be leveraged to recognize complex human activities and infer user intent. My work also contributes to the development of intelligent affective technologies that can sense, interpret, and respond to human emotional states in real time. More broadly, I aim to design intuitive and adaptive interaction paradigms that enable seamless collaboration between humans and intelligent systems, including robots, in everyday environments.
         
-        Please reach out to collaborate 😃
-        
+        I am currently looking for self-motivated *Ph.D.* and *Master’s students* with backgrounds in Artificial Intelligence, Robotics, Human-Computer Interaction, and Circuit Design.
+
         Contact: gaoyang2025 [AT] scut.edu.cn
     design:
       columns: '1'
