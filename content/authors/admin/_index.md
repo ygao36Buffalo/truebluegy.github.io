@@ -41,6 +41,7 @@ interests:
   - Artificial Intelligence
   - Human-Computer-Interaction
   - Pervasive Computing
+  - Human-Robot-Interaction
 
 
 education:
