@@ -38,9 +38,9 @@ profiles:
     url: https://orcid.org/my-orcid?orcid=0000-0001-6811-0183
 
 interests:
-  - Artificial Intelligence
   - Human-Computer-Interaction
   - Pervasive Computing
+  - Multi-modal LLM
   - Human-Robot-Interaction
 
 
