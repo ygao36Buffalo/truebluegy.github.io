@@ -46,30 +46,36 @@ interests:
 
 education:
   - area: PhD
-    institution: University at Buffalo
+    institution: University at Buffalo, United States
     date_start: 2018-01-01
     date_end: 2021-06-01
 
   - area: PhD
-    institution: Binghamton University
+    institution: Binghamton University, United States
     date_start: 2015-01-01
     date_end: 2017-12-31
 
   - area: MS
-    institution: Steven Institute of Technology
+    institution: Steven Institute of Technology, United States
     date_start: 2012-09-01
     date_end: 2014-06-01
 
   - area: BS
-    institution: UESTC
+    institution: UESTC, China
     date_start: 2008-09-01
     date_end: 2012-06-01
 
 work:
   - position: Postdoc
-    institution: Northwestern University
+    institution: Northwestern University, United States
     date_start: 2021-08-01
     date_end: 2022-05-01
+
+  - position: Research Professor
+    institution: East China Normal University, China
+    date_start: 2022-09-01
+    date_end: 2025-8-13
+
 
 
 
