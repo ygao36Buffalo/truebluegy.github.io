@@ -74,7 +74,7 @@ work:
   - position: Research Professor
     institution: East China Normal University, China
     date_start: 2022-09-01
-    date_end: 2025-8-13
+    date_end: 2025-08-13
 
 
 
