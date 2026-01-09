@@ -21,7 +21,7 @@ role: Associate Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: South China University of Technology
+  - name: South China Univ. of Technology
 
 
 # Social network links
@@ -96,6 +96,6 @@ work:
 
 ## About Me
 
-Yang Gao is an associate professor at the South China University of Technology. Prior to my current role, I gained valuable experience as Research Professor at East China Normal University from September 2022 to August 2025 and a Postdoctoral Researcher at Northwestern University from August 2021 to May 2022. His research interests include Human-Computer-Interaction, Human-Robot-Interaction, Wearable Computing, and AI. He leads the human-computer-interaction group with the Schol of Future Technology at SCUT. 
+Yang Gao is an associate professor at the South China Univ. of Technology. Prior to my current role, I gained valuable experience as Research Professor at East China Normal University from September 2022 to August 2025 and a Postdoctoral Researcher at Northwestern University from August 2021 to May 2022. His research interests include Human-Computer-Interaction, Human-Robot-Interaction, Wearable Computing, and AI. He leads the human-computer-interaction group with the Schol of Future Technology at SCUT. 
 
 Contact: gaoyang2025 [AT] scut.edu.cn
