@@ -97,6 +97,6 @@ work:
 
 ## About Me
 
-Yang Gao is an Associate Professor in the School of Future Technology (Computer Science) at South China University of Technology (SCUT). Prior to my current role, I gained valuable experience as Research Professor at East China Normal University from September 2022 to August 2025 and a Postdoctoral Researcher at Northwestern University from August 2021 to May 2022. His research interests include Human-Computer Interaction, Human-Robot Interaction, Wearable Computing, and AI. He leads the Human-Computer Interaction group at SCUT. 
+Yang Gao is an Associate Professor in the School of Future Technology at South China University of Technology (SCUT). Prior to my current role, I gained valuable experience as Research Professor at East China Normal University from September 2022 to August 2025 and a Postdoctoral Researcher at Northwestern University from August 2021 to May 2022. His research interests include Human-Computer Interaction, Human-Robot Interaction, Wearable Computing, and AI. He leads the Human-Computer Interaction group at SCUT. 
 
 Contact: gaoyang2025 [AT] scut.edu.cn
